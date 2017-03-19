@@ -1,0 +1,7 @@
+.idea/
+ignored/
+
+build.sh
+.gitignore
+
+*.iml
